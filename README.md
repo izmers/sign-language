@@ -1,5 +1,9 @@
 # Sign Language Image Classifier
 
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)]()
+[![Framework](https://img.shields.io/badge/framework-PyTorch%20|%20ScikitLearn-blue)]()
+[![Dataset](https://img.shields.io/badge/dataset-9,680%20images-lightgrey)]()
+
 A project to classify 9,680 grayscale sign language images (letters a–z and digits 0–9) into 36 classes using two different approaches:
 
 1. **Convolutional Neural Network (CNN)** implemented with PyTorch.
